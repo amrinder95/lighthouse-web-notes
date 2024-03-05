@@ -1,1 +1,3 @@
 # Amrinder's Notes
+## Summary 
+This repository contains all of the notes taken by [Amrinder](https://github.com/amrinder95) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
